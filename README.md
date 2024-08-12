@@ -1,6 +1,6 @@
 # Microcontrolador Utilizado
 
--PIC18F4550
+- PIC18F4550
 
 # Ferramentas Utilizadas:
 
