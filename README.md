@@ -1,5 +1,3 @@
-# Sistemas-Microcontrolados
-
 # Microcontrolador Utilizado
 
 -PIC18F4550
