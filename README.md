@@ -1,5 +1,8 @@
 # Sistemas-Microcontrolados
-Atividades Acadêmicas
+
+# Microcontrolador Utilizado
+
+-PIC18F4550
 
 # Ferramentas Utilizadas:
 
