@@ -4,5 +4,6 @@
 
 # Ferramentas Utilizadas:
 
-- MPLABX v5.50
+- Kit Educacional XM118;
+- MPLABX v5.50.
   
