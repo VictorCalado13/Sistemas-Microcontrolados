@@ -6,5 +6,5 @@
 
 - PicKit 3 + Socket Zif
 - Kit Educacional XM118;
-- MPLABX v5.50.
+- MPLABX IDE v5.50.
   
