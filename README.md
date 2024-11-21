@@ -7,4 +7,6 @@
 - PicKit 3 + Socket Zif
 - Kit Educacional XM118;
 - MPLABX IDE v5.50.
-  
+
+
+Prof° Miguel Angel Chincaro Bernuy
